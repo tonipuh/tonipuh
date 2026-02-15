@@ -23,18 +23,10 @@ MS-SQL, MySQL, Azure, REST, SOAP, Docker.
 
 - [Kopernicus Oy](https://kopernicus.fi)
 - [Pamon Designer – HVAC selection software](https://calc.pamon.fi)
-- [LinkedIn](www.linkedin.com/in/puhtoni)
+- [LinkedIn](https://www.linkedin.com/in/puhtoni)
 
 ---
 
 First project at 13: a run of silk-screened T-shirts.
 Different tools, same loop.
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
