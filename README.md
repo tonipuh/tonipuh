@@ -23,7 +23,7 @@ MS-SQL, MySQL, Azure, REST, SOAP, Docker.
 
 - [Kopernicus Oy](https://kopernicus.fi)
 - [Pamon Designer – HVAC selection software](https://calc.pamon.fi)
-- [LinkedIn](https://linkedin.com/in/tonipuhakka)
+- [LinkedIn](www.linkedin.com/in/puhtoni)
 
 ---
 
